@@ -1,0 +1,152 @@
+/*Hide class to control with Jquery - for hiding any elements including intro, answers, etc*/
+.js-hidden {
+  /*Visibility hidden will Make it draw invisible pixels*/
+  /*visibility: hidden;*/
+  /*Display none will make it draw no pixel*/
+  display: none; 
+}
+
+header {
+  background-color: #eebb44;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: white;
+  background-image: url('https://www.akuaroworld.com/wp-content/uploads/2017/03/istambul-2-1.jpg');
+  background-position: center;
+  /*padding: 0;*/
+  margin: 0;
+}
+
+header h1 {
+  line-height: 1;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+fieldset {
+  border: none;
+}
+
+main {
+  padding-top: 40px;
+  background-color: #9a8560;
+  background-color:rgba(0, 0, 0, .7);
+  box-shadow: 5px 5px 5px 5px black;
+}
+
+a {
+  color:dodgerblue;
+}
+
+header p {
+  margin-top: 0.5em;
+  text-align: center;
+}
+
+/*Not sure I like this... fool around with it a bit more
+.quizDisplay {
+  border: 1px solid #E5E5E5;
+  margin-bottom: 20px;
+}
+*/
+.button {
+  width: 100%;
+  padding: 14px;
+  background-color: #4CAF50;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+/*.quizDisplay {
+  width: 100%;
+}*/
+
+img {
+  width: 100%;
+}
+
+.content {
+  margin-top: 10px;
+  padding: 2px;
+  /*border: 1px solid #E5E5E5;*/
+  margin-bottom: 20px;
+  float:left;
+}
+
+/*.nextQButton {
+  width: 100%;
+  float: left;
+}*/
+
+.correctScoreboard {
+  float: left;
+  /*width: 50%;*/
+  background-color: green;
+  text-align: center;
+}
+
+.inCorrectScoreboard {
+  float: left;
+  /*width: 50%;*/
+  background-color: red;
+  text-align: center;
+}
+
+.percentstyle {
+  margin-top: 10px;
+  margin-bottom:10px;
+  font-size: 30px;
+  color: #eebb44;
+  /*box-shadow: 5px 5px 5px 5px black;*/
+  text-shadow: 5px 5px black;
+  text-align: center;
+}
+
+span {
+  font-weight: bold;
+  font-style: italic;
+}
+
+h2 {
+  font-size: 40px;
+  text-align: center;
+  color: #eebb44;
+  box-shadow: 5px 5px 5px 5px black;
+  text-shadow: 5px 5px black;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.currentQuestion {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: right;
+  color: #eebb44;
+}
+
+/*.currentQuestionImage {
+  width: 50%;
+}*/
+
+legend {
+  font-weight: bold;
+  text-align:center;
+  padding-top: 20px;
+  padding-bottom:20px;
+}
+
+.content h3 {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.content p {
+  margin: 0.5em 0;
+}
+/*Style shit later*/
