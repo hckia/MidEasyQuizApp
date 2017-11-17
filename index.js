@@ -10,7 +10,7 @@ const QUIZ = {
         correctAnswer: 0,
         paragraph: 'Prior to the name \'Middle East\' the region was commonly referred to as the \'Near East\'. The modern term is believed to derive from the British India Office.',
         image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Middle_East_%28orthographic_projection%29.svg/553px-Middle_East_%28orthographic_projection%29.svg.png',
-        sources: '<a href="https://en.wikipedia.org/wiki/Near_East" target=\"_blank\">SOURCES: Near East</a>',
+        sources: '<a href="https://en.wikipedia.org/wiki/Near_East" target="_blank">SOURCES: Near East</a>',
         altinfo: 'Image of the Middle or Near east'
       },
       {
@@ -19,7 +19,7 @@ const QUIZ = {
         correctAnswer: 1,
         paragraph: 'The Middle East commonly refers to the following nations... Bahrain, Cyprus, Egypt, Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Oman, Palestine, Qatar, Saudi Arabia, Syria, Turkey, United Arab Emirates, and Yemen',
         image: 'https://upload.wikimedia.org/wikipedia/commons/1/13/Middle_east.jpg',
-        sources: '<a href="https://en.wikipedia.org/wiki/Middle_East#Territories_and_regions" target=\"_blank\">SOURCES: Middle East Territories and Regions</a>',
+        sources: '<a href="https://en.wikipedia.org/wiki/Middle_East#Territories_and_regions" target="_blank">SOURCES: Middle East Territories and Regions</a>',
         altinfo: 'Image of Middle East territories'
       },
       {
@@ -28,7 +28,7 @@ const QUIZ = {
         correctAnswer: 2,
         paragraph: 'The Greek/Persian conflicts carried on well past the days of the Athenians, Spartans, and the Achaemenid (Persian) empire. <br><br>Eastern Rome and its later counterpart the Byzantines continued to battle their arch rivals through the - The Parthians (a Hellenistic-Iranian dynasty) and the Sassanids (most powerful Iranian dynasty since the Achaemenids).<br><br> Their fued reached its climax during the Byzantine–Sasanian War of 602–628. The conflict was so catastrophic that it left both Empires in a weakened state they would not recover from, allowing their neighboring Arab states to break, and bring about the rise of Islam throughout both empires.',
         image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Piero_della_Francesca_021.jpg/2560px-Piero_della_Francesca_021.jpg',
-        sources: '<a href="https://en.wikipedia.org/wiki/Byzantine%E2%80%93Sasanian_War_of_602%E2%80%93628" target=\"_blank\">SOURCES: Byzantine Sassanian War of 602-628</a>',
+        sources: '<a href="https://en.wikipedia.org/wiki/Byzantine%E2%80%93Sasanian_War_of_602%E2%80%93628" target="_blank">SOURCES: Byzantine Sassanian War of 602-628</a>',
         altinfo: 'Image from the Byzantine Sassanid War of 602 to 628'
       },
       {
@@ -37,7 +37,7 @@ const QUIZ = {
         correctAnswer: 3,
         paragraph: 'The Eastern Roman and the later Byzantine empire predominantly spoke Greek, However this should not be taken to regard the Byzantines as a Greek empire. This was a multicultural society with predominantly Non-Greek contributors.',
         image: 'https://upload.wikimedia.org/wikipedia/commons/b/bd/Byzantine_agriculture.jpg',
-        sources: '<a href="https://en.wikipedia.org/wiki/Byzantine_Empire#Language" target=\"_blank\">SOURCES: Byzantine Empire languages</a>',
+        sources: '<a href="https://en.wikipedia.org/wiki/Byzantine_Empire#Language" target="_blank">SOURCES: Byzantine Empire languages</a>',
         altinfo: 'image of Byzantine Greek scripture'
       },
       {
@@ -46,7 +46,7 @@ const QUIZ = {
         correctAnswer: 4,
         paragraph: 'The Golden age of Islam spanned roughly 500 years from the time of Mohammad, and through three major caliphates (Muslim rulers) - The Rashidun, Umayyad, and Abbassid Caliphates. <br><br> The Arab conquest suddenly saw Anatolian Greeks, Persian, and Arab populations living under one empire. In an attempt to adapt, Arab Governance required a fusion of their predecessors systems and technology. <br><br> This, along with a relative level of stability not experienced in the region since the Achaemenid Persian empire, allowed the region to flourish with a wealth of new inventions, and improvements on quality of life.',
         image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Map_of_expansion_of_Caliphate.svg/900px-Map_of_expansion_of_Caliphate.svg.png',
-        sources: '<ul><li><a href="https://en.wikipedia.org/wiki/Islamic_Golden_Age" target=\"_blank\">SOURCE: Islamic Golden Age</a></li><li><a href="https://www.timemaps.com/civilizations/islamic-caliphate/">SOURCE: The Islamic Caliphate</a></li></ul>',
+        sources: '<ul><li><a href="https://en.wikipedia.org/wiki/Islamic_Golden_Age" target="_blank">SOURCE: Islamic Golden Age</a></li><li><a href="https://www.timemaps.com/civilizations/islamic-caliphate/">SOURCE: The Islamic Caliphate</a></li></ul>',
         altinfo: 'Image of the Islamic Empires under the Caliphates'
       },
       {
@@ -55,7 +55,7 @@ const QUIZ = {
         correctAnswer: 3,
         paragraph: 'Although the Turks replaced the Greeks as the dominant ethnic group in Anatolia, the geopolitical rivalry continued with the Persians in a similar fashion to the regions pre-Islamic status. <br><br> However this time, two sects of Islam were fighting for dominance. The Sunnis (through the Ottomans), and the Shia (through the Safavid Persians). The Mughal empire ruled a large portion of the Indian subcontinent, and while the ruling family of Turkic ancestry spoke Persian, they were a Sunni group that ruled over an incredibly diverse society.<br><br> It is said that the Ottomans and Safavids rivaled the European Empires at their height, with Isfahan being compared to Paris and London. <br><br> Eventually, the empires ruined each other, with Nader Shah overthrowing his own Safavid rulers, and sacking the Mughal empire. His actions in modern day India paved the way for the British Empire to easily conquer the region.',
         image: 'http://apworldhistory2012-2013.weebly.com/uploads/9/9/9/6/9996001/3493505_orig.jpg?357',
-        sources: '<a href="https://en.wikipedia.org/wiki/Gunpowder_Empires" target=\"_blank\">SOURCES: Wikipedia - Gun Powder Empires</a>',
+        sources: '<a href="https://en.wikipedia.org/wiki/Gunpowder_Empires" target="_blank">SOURCES: Wikipedia - Gun Powder Empires</a>',
         altinfo: 'Images of the Ottoman, Safavid, and Mughal Empires'
       },
       {
@@ -64,7 +64,7 @@ const QUIZ = {
         correctAnswer: 1,
         paragraph: 'Shia make up 10-13% of the world\'s muslim population. Mostly centralzied in the Middle east. In the region, they roughly make up 50% of the population.',
         image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mirror_writing2.jpg/1920px-Mirror_writing2.jpg',
-        sources: '<a href="http://www.bbc.com/news/world-middle-east-25434060" target=\"_blank\">SOURCES: World Middle East Population</a>',
+        sources: '<a href="http://www.bbc.com/news/world-middle-east-25434060" target="_blank">SOURCES: World Middle East Population</a>',
         altinfo: 'Image of Shia Islam written in Arabic caligraphy'
       },
       {
@@ -73,7 +73,7 @@ const QUIZ = {
         correctAnswer: 2,
         paragraph: 'Arabic is by far the most popular language in the Middle East, followed by Turkish, Persian, and Hebrew.<br><br>While Arabic and Hebrew are part of the semitic branch of languages, Turkish falls under Turkic (formerly labeled an Uralaltaic), and Kurdish/Persian falling under Indo-European.',
         image: 'https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/1/9/1420823284975/fe0733eb-8981-441d-9323-a9c635347ab8-2060x1236.jpeg?w=1300&q=20&auto=format&usm=12&fit=max&dpr=2&s=684e494384fbb38e71453f9dbf828142',
-        sources: '<ul><li><a href="https://en.wikipedia.org/wiki/Middle_East#Languages" target=\"_blank\">SOURCE: Wikipedia - Middle East languages</a></li><li><a href="https://en.wikipedia.org/wiki/Semitic_languages">SOURCE: Semitic Languages</a></li><li><a href="https://en.wikipedia.org/wiki/Indo-Iranian_languages">SOURCE: Indo-Iranian(Aryan) languages</a></li><li><a href="https://en.wikipedia.org/wiki/Turkic_languages">SOURCE: Turkic Languages</a></li></ul>',
+        sources: '<ul><li><a href="https://en.wikipedia.org/wiki/Middle_East#Languages" target="_blank">SOURCE: Wikipedia - Middle East languages</a></li><li><a href="https://en.wikipedia.org/wiki/Semitic_languages">SOURCE: Semitic Languages</a></li><li><a href="https://en.wikipedia.org/wiki/Indo-Iranian_languages">SOURCE: Indo-Iranian(Aryan) languages</a></li><li><a href="https://en.wikipedia.org/wiki/Turkic_languages">SOURCE: Turkic Languages</a></li></ul>',
         altinfo: 'Indo-European Language Tree'
       },
       {
@@ -82,7 +82,7 @@ const QUIZ = {
         correctAnswer: 3,
         paragraph: 'The connections between Jews and Iranians stems back to the beginnings of the first Persian empire under Cyrus The Great. Cyrus freed the Jews of Babylon and made Palestine a vassal state under Jewish rule and law. <br><br> Cyrus and his three heirs are referenced in the old testament, and before Jesus was often believed to be the Mesiah in certain sects.',
         image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rashid-al-Din_Hamadani.jpg/1024px-Rashid-al-Din_Hamadani.jpg',
-        sources: '<ul><li><a href="https://en.wikipedia.org/wiki/Persian_Jews" target=\"_blank\">SOURCE: Persian Jews</a></li><li><a href="https://en.wikipedia.org/wiki/Iranian_Jews_in_Israel">SOURCE: Iranian Jews in Israel</a></li><li><a href="https://en.wikipedia.org/wiki/Cyrus_the_Great#cite_note-15">SOURCE: Cyrus The great as the mesiah</a></li></ul>',
+        sources: '<ul><li><a href="https://en.wikipedia.org/wiki/Persian_Jews" target="_blank">SOURCE: Persian Jews</a></li><li><a href="https://en.wikipedia.org/wiki/Iranian_Jews_in_Israel">SOURCE: Iranian Jews in Israel</a></li><li><a href="https://en.wikipedia.org/wiki/Cyrus_the_Great#cite_note-15">SOURCE: Cyrus The great as the mesiah</a></li></ul>',
         altinfo: 'Picture of a famous Iranian-Jewish Figure head during the Islamic period'
       }
     ]
