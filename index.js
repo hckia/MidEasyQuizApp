@@ -197,7 +197,7 @@ function results () {
   var percentageScore = ((correctScore/9)*100).toFixed(2);
   $('h1').html('Wasn\'t that Mid-Easy? Final Score');
   $('.quizDisplay').html("<div class=\"correctScoreboard col-6\">correct:  " + correctScore + "</div> <div class=\"inCorrectScoreboard col-6\"> incorrect: "+ inCorrectScore + "</div><div class=\"col-12\"><button class='button js-restart-button' type='button'>Let's try this again</button></div><div class=\"percentstyle col-12\">Percentage: " + percentageScore  + "% </div><div class=\"percentstyle col-12\">Games Played: " + gamesplayed + "</div><div class=\"percentstyle col-12\">Last Score: " + lastPercentageScore + "</div> <div class=\"content\"> <span>  You are...</span>" + percentile(percentageScore));
-  lastPercentageScore = percentageScore;
+  lastPercentageScore = percentageScore + '%';
   $('.js-restart-button').on('click', restartQuiz);
 }
 
