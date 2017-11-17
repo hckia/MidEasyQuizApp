@@ -46,7 +46,7 @@ const QUIZ = {
         correctAnswer: 4,
         paragraph: 'The Golden age of Islam spanned roughly 500 years from the time of Mohammad, and through three major caliphates (Muslim rulers) - The Rashidun, Umayyad, and Abbassid Caliphates. <br><br> The Arab conquest suddenly saw Anatolian Greeks, Persian, and Arab populations living under one empire. In an attempt to adapt, Arab Governance required a fusion of their predecessors systems and technology. <br><br> This, along with a relative level of stability not experienced in the region since the Achaemenid Persian empire, allowed the region to flourish with a wealth of new inventions, and improvements on quality of life.',
         image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Map_of_expansion_of_Caliphate.svg/900px-Map_of_expansion_of_Caliphate.svg.png',
-        sources: '<ul><li><a href="https://en.wikipedia.org/wiki/Islamic_Golden_Age" target="_blank">SOURCE: Islamic Golden Age</a></li><li><a href="https://www.timemaps.com/civilizations/islamic-caliphate/">SOURCE: The Islamic Caliphate</a></li></ul>',
+        sources: '<ul><li><a href="https://en.wikipedia.org/wiki/Islamic_Golden_Age" target="_blank">SOURCE: Islamic Golden Age</a></li><li><a href="https://www.timemaps.com/civilizations/islamic-caliphate/" target="_blank">SOURCE: The Islamic Caliphate</a></li></ul>',
         altinfo: 'Image of the Islamic Empires under the Caliphates'
       },
       {
@@ -73,7 +73,7 @@ const QUIZ = {
         correctAnswer: 2,
         paragraph: 'Arabic is by far the most popular language in the Middle East, followed by Turkish, Persian, and Hebrew.<br><br>While Arabic and Hebrew are part of the semitic branch of languages, Turkish falls under Turkic (formerly labeled an Uralaltaic), and Kurdish/Persian falling under Indo-European.',
         image: 'https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/1/9/1420823284975/fe0733eb-8981-441d-9323-a9c635347ab8-2060x1236.jpeg?w=1300&q=20&auto=format&usm=12&fit=max&dpr=2&s=684e494384fbb38e71453f9dbf828142',
-        sources: '<ul><li><a href="https://en.wikipedia.org/wiki/Middle_East#Languages" target="_blank">SOURCE: Wikipedia - Middle East languages</a></li><li><a href="https://en.wikipedia.org/wiki/Semitic_languages">SOURCE: Semitic Languages</a></li><li><a href="https://en.wikipedia.org/wiki/Indo-Iranian_languages">SOURCE: Indo-Iranian(Aryan) languages</a></li><li><a href="https://en.wikipedia.org/wiki/Turkic_languages">SOURCE: Turkic Languages</a></li></ul>',
+        sources: '<ul><li><a href="https://en.wikipedia.org/wiki/Middle_East#Languages" target="_blank">SOURCE: Wikipedia - Middle East languages</a></li><li><a href="https://en.wikipedia.org/wiki/Semitic_languages" target="_blank">SOURCE: Semitic Languages</a></li><li><a href="https://en.wikipedia.org/wiki/Indo-Iranian_languages" target="_blank">SOURCE: Indo-Iranian(Aryan) languages</a></li><li><a href="https://en.wikipedia.org/wiki/Turkic_languages" target="_blank">SOURCE: Turkic Languages</a></li></ul>',
         altinfo: 'Indo-European Language Tree'
       },
       {
@@ -82,7 +82,7 @@ const QUIZ = {
         correctAnswer: 3,
         paragraph: 'The connections between Jews and Iranians stems back to the beginnings of the first Persian empire under Cyrus The Great. Cyrus freed the Jews of Babylon and made Palestine a vassal state under Jewish rule and law. <br><br> Cyrus and his three heirs are referenced in the old testament, and before Jesus was often believed to be the Mesiah in certain sects.',
         image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rashid-al-Din_Hamadani.jpg/1024px-Rashid-al-Din_Hamadani.jpg',
-        sources: '<ul><li><a href="https://en.wikipedia.org/wiki/Persian_Jews" target="_blank">SOURCE: Persian Jews</a></li><li><a href="https://en.wikipedia.org/wiki/Iranian_Jews_in_Israel">SOURCE: Iranian Jews in Israel</a></li><li><a href="https://en.wikipedia.org/wiki/Cyrus_the_Great#cite_note-15">SOURCE: Cyrus The great as the mesiah</a></li></ul>',
+        sources: '<ul><li><a href="https://en.wikipedia.org/wiki/Persian_Jews" target="_blank">SOURCE: Persian Jews</a></li><li><a href="https://en.wikipedia.org/wiki/Iranian_Jews_in_Israel" target="_blank">SOURCE: Iranian Jews in Israel</a></li><li><a href="https://en.wikipedia.org/wiki/Cyrus_the_Great#cite_note-15" target="_blank">SOURCE: Cyrus The great as the mesiah</a></li></ul>',
         altinfo: 'Picture of a famous Iranian-Jewish Figure head during the Islamic period'
       }
     ]
