@@ -127,13 +127,13 @@ function buildQuiz() {
     return `<label><input id='radio_${index}' type='radio' name='answer' value='${index}'  required>${answer}</label><br>`});
     // possibly put line 65 and part of 83 in its own function
    return `<div class=\"currentQuestion col-12\">Questions: ${currentQ+1} out of ${totalQ} </div> <div class=\"correctScoreboard col-6\">correct: ${correctScore} </div> <div class=\"inCorrectScoreboard col-6\"> incorrect: ${inCorrectScore}</div>
-    <fieldset>
       <form role="search" id="question-form">
-        <legend>${QUIZ.questions[currentQ].question}</legend>
-        ${answers.join('')}
-        <input class="js-submit-button button" type="submit" value="Final Answer">
+        <fieldset>
+          <legend>${QUIZ.questions[currentQ].question}</legend>
+          ${answers.join('')}
+          <input class="js-submit-button button" type="submit" value="Final Answer">
+       </fieldset>
       </form>
-    </fieldset>
     `;
 }
 
