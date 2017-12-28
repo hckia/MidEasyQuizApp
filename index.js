@@ -131,8 +131,8 @@ function buildQuiz() {
         <fieldset>
           <legend>${QUIZ.questions[currentQ].question}</legend>
           ${answers.join('')}
-          <input class="js-submit-button button" type="submit" value="Final Answer">
        </fieldset>
+       <input class="js-submit-button button" type="submit" value="Final Answer">
       </form>
     `;
 }
